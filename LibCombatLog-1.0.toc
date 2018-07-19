@@ -1,0 +1,12 @@
+## Interface: 70300
+### LoadOnDemand: 1
+
+## Title: LibCombatLog-1.0
+## Version: 1.0
+## Author: Shishire
+## X-Category: Library
+
+LibStub\LibStub.lua
+CallbackHandler-1.0\CallbackHandler-1.0.lua
+
+LibCombatLog-1.0\LibCombatLog-1.0.xml
