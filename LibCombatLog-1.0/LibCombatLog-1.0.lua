@@ -12,7 +12,7 @@ LibCombatLog.embeds = LibCombatLog.embeds or {}
 
 
 if not LibCombatLog.events then
-	LibCombatLog.events = CallbackHandler:New(LibCombatLog, 
+	LibCombatLog.events = CallbackHandler:New(LibCombatLog,
 		"RegisterCombatEvent", "UnregisterCombatEvent", "UnregisterAllCombatEvents")
 end
 
